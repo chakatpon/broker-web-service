@@ -1,0 +1,443 @@
+{
+    "Relationship": [
+        {
+            "VIR_relationship_code": "1",
+            "VIR_relationship_name": "บิดา",
+            "VIR_relationship_name_eng": "Father",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "2",
+            "VIR_relationship_name": "มารดา",
+            "VIR_relationship_name_eng": "Mother",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "3",
+            "VIR_relationship_name": "ปู่",
+            "VIR_relationship_name_eng": "Grand father",
+            "bigC_name": "ปู่ ย่า ตา ยาย",
+            "VIR_code": "46"
+        },
+        {
+            "VIR_relationship_code": "5",
+            "VIR_relationship_name": "ย่า",
+            "VIR_relationship_name_eng": "Grand mother",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "6",
+            "VIR_relationship_name": "ตา",
+            "VIR_relationship_name_eng": "Grand father",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "7",
+            "VIR_relationship_name": "ยาย",
+            "VIR_relationship_name_eng": "Grand mother",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "8",
+            "VIR_relationship_name": "ลุง",
+            "VIR_relationship_name_eng": "Uncle",
+            "bigC_name": "ลุง ป้า น้า อา",
+            "VIR_code": "46"
+        },
+        {
+            "VIR_relationship_code": "9",
+            "VIR_relationship_name": "ป้า",
+            "VIR_relationship_name_eng": "Aunt",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "10",
+            "VIR_relationship_name": "น้า",
+            "VIR_relationship_name_eng": "Aunt",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "11",
+            "VIR_relationship_name": "อา",
+            "VIR_relationship_name_eng": "Aunt",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "20",
+            "VIR_relationship_name": "พี่ชาย",
+            "VIR_relationship_name_eng": "Brather",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "21",
+            "VIR_relationship_name": "พี่สาว",
+            "VIR_relationship_name_eng": "Sister",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "22",
+            "VIR_relationship_name": "น้องชาย",
+            "VIR_relationship_name_eng": "Brother",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "23",
+            "VIR_relationship_name": "น้องสาว",
+            "VIR_relationship_name_eng": "Sister",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "24",
+            "VIR_relationship_name": "สามี",
+            "VIR_relationship_name_eng": "Husband",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "25",
+            "VIR_relationship_name": "ภรรยา",
+            "VIR_relationship_name_eng": "Wife",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "40",
+            "VIR_relationship_name": "บุตรชาย",
+            "VIR_relationship_name_eng": "Son",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "41",
+            "VIR_relationship_name": "บุตรสาว",
+            "VIR_relationship_name_eng": "Dougther",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "42",
+            "VIR_relationship_name": "หลานชาย",
+            "VIR_relationship_name_eng": "Grandson",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "43",
+            "VIR_relationship_name": "หลานสาว",
+            "VIR_relationship_name_eng": "Granddougther",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "44",
+            "VIR_relationship_name": "นายจ้าง",
+            "VIR_relationship_name_eng": "Boss",
+            "bigC_name": "นายจ้าง",
+            "VIR_code": "44"
+        },
+        {
+            "VIR_relationship_code": "45",
+            "VIR_relationship_name": "องค์กรการกุศล",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "46",
+            "VIR_relationship_name": "ญาติ",
+            "VIR_relationship_name_eng": "Folk",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "47",
+            "VIR_relationship_name": "ผู้มีอุปการะ",
+            "VIR_relationship_name_eng": "Patron",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "48",
+            "VIR_relationship_name": "ลูกสะใภ้",
+            "VIR_relationship_name_eng": "Daughter in law",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "49",
+            "VIR_relationship_name": "ลูกเขย",
+            "VIR_relationship_name_eng": "Son in law",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "50",
+            "VIR_relationship_name": "ลูกจ้าง",
+            "VIR_relationship_name_eng": "Employee",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "51",
+            "VIR_relationship_name": "พ่อบุญธรรม",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "52",
+            "VIR_relationship_name": "แม่บุญธรรม",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "53",
+            "VIR_relationship_name": "เพื่อน",
+            "VIR_relationship_name_eng": "Friend",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "54",
+            "VIR_relationship_name": "บุตรบุญธรรม",
+            "VIR_relationship_name_eng": "Adopter child",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "55",
+            "VIR_relationship_name": "หัวหน้างาน",
+            "bigC_name": "พนักงานบริษัท",
+            "VIR_code": "99"
+        },
+        {
+            "VIR_relationship_code": "56",
+            "VIR_relationship_name": "ตามภาระผูกพัน",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "57",
+            "VIR_relationship_name": "น้องเขย",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "58",
+            "VIR_relationship_name": "พี่เขย",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "59",
+            "VIR_relationship_name": "น้องสะใภ้",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "60",
+            "VIR_relationship_name": "พี่สะใภ้",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "61",
+            "VIR_relationship_name": "อาเขย",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "62",
+            "VIR_relationship_name": "น้าเขย",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "63",
+            "VIR_relationship_name": "หลานเขย",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "64",
+            "VIR_relationship_name": "พ่อตา",
+            "VIR_relationship_name_eng": "Father in law",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "65",
+            "VIR_relationship_name": "แม่ยาย",
+            "VIR_relationship_name_eng": "Mother in law",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "66",
+            "VIR_relationship_name": "น้องภรรยา",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "67",
+            "VIR_relationship_name": "น้องสามี",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "68",
+            "VIR_relationship_name": "ผู้ให้เช่าซื้อ",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "69",
+            "VIR_relationship_name": "เจ้าของทรัพย์สิน",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "70",
+            "VIR_relationship_name": "ทายาทโดยธรรม",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "ทายาทโดยธรรม",
+            "VIR_code": "70"
+        },
+        {
+            "VIR_relationship_code": "71",
+            "VIR_relationship_name": "สถาบัน",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "72",
+            "VIR_relationship_name": "ผู้เอาประกัน",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "ผู้เอาประกันภัย",
+            "VIR_code": "72"
+        },
+        {
+            "VIR_relationship_code": "73",
+            "VIR_relationship_name": "หน่วยงานที่สั่งปรับ",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "74",
+            "VIR_relationship_name": "บุตร",
+            "VIR_relationship_name_eng": "children",
+            "bigC_name": "บุตร",
+            "VIR_code": "74"
+        },
+        {
+            "VIR_relationship_code": "75",
+            "VIR_relationship_name": "หลาน",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "หลาน",
+            "VIR_code": "75"
+        },
+        {
+            "VIR_relationship_code": "76",
+            "VIR_relationship_name": "เจ้าหนี้",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "77",
+            "VIR_relationship_name": "คู่สมรส",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "คู่สมรส",
+            "VIR_code": "77"
+        },
+        {
+            "VIR_relationship_code": "78",
+            "VIR_relationship_name": "พี่",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "พี่ น้อง",
+            "VIR_code": "46"
+        },
+        {
+            "VIR_relationship_code": "79",
+            "VIR_relationship_name": "น้อง",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "80",
+            "VIR_relationship_name": "ผู้ให้กู้",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "81",
+            "VIR_relationship_name": "แม่สามี",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "82",
+            "VIR_relationship_name": "พ่อสามี",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "83",
+            "VIR_relationship_name": "ผู้เช่าซื้อ",
+            "VIR_relationship_name_eng": "ผู้เช่าซื้อ",
+            "bigC_name": "",
+            "VIR_code": ""
+        },
+        {
+            "VIR_relationship_code": "95",
+            "VIR_relationship_name": "ผู้มีส่วนได้เสียในทรัพย์สิน",
+            "VIR_relationship_name_eng": "ผู้มีส่วนได้เสียในทรัพย์สิน",
+            "bigC_name": "เจ้าหนี้นิติบุคคล",
+            "VIR_code": "95"
+        },
+        {
+            "VIR_relationship_code": "96",
+            "VIR_relationship_name": "ผู้อยู่กินฉันท์สามี ภรรยา",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "อยู่กินกันฉันสามี ภรรยา",
+            "VIR_code": "96"
+        },
+        {
+            "VIR_relationship_code": "97",
+            "VIR_relationship_name": "บิดา มารดา",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "บิดา มารดา",
+            "VIR_code": "97"
+        },
+        {
+            "VIR_relationship_code": "98",
+            "VIR_relationship_name": "พี่น้องร่วมบิดา มารดา",
+            "VIR_relationship_name_eng": "NULL",
+            "bigC_name": "พี่น้องร่วมบิดามารดา",
+            "VIR_code": "98"
+        },
+        {
+            "VIR_relationship_code": "99",
+            "VIR_relationship_name": "อื่นๆ",
+            "VIR_relationship_name_eng": "Other",
+            "bigC_name": "อื่นๆ",
+            "VIR_code": "99"
+        }
+    ]
+}

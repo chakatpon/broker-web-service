@@ -1,0 +1,158 @@
+{
+    "IDCardType": [
+        {
+            "IdentityCardType": "0",
+            "Desc": "บัตรประชาชน",
+            "IDCARDTYPE": "I"
+        },
+        {
+            "IdentityCardType": "1",
+            "Desc": "ใบขับขี่"
+        },
+        {
+            "IdentityCardType": "2",
+            "Desc": "หนังสือเดินทาง",
+            "IDCARDTYPE": "P"
+        },
+        {
+            "IdentityCardType": "3",
+            "Desc": "บัตรประจำตัวผู้เสียภาษี"
+        },
+        {
+            "IdentityCardType": "4",
+            "Desc": "บัตรข้าราชการ"
+        },
+        {
+            "IdentityCardType": "5",
+            "Desc": "หนังสือต่างด้าว"
+        },
+        {
+            "IdentityCardType": "6",
+            "Desc": "บัตรนักเรยีน/นักศึกษา"
+        }
+    ],
+    "PaymentMethod": [
+        {
+            "PaymentMethodCode": "1",
+            "Meaning": "ชำระผ่านบัตรเครดิต"
+        },
+        {
+            "PaymentMethodCode": "2",
+            "Meaning": "ชำระโดยบัญชีเงินฝากธนาคาร"
+        },
+        {
+            "PaymentMethodCode": "3",
+            "Meaning": "ชำระเป็นเงินสดผ่านธนาคาร"
+        },
+        {
+            "PaymentMethodCode": "4",
+            "Meaning": "อื่นเช่น เงินสด"
+        }
+    ],
+    "HolderType": [
+        {
+            "HolderType": "0",
+            "Meaning": "บุคคลธรรมดาไม่จดVAT"
+        },
+        {
+            "HolderType": "1",
+            "Meaning": "นิติบุคคลในประเทศ"
+        },
+        {
+            "HolderType": "3",
+            "Meaning": "หน่วยงานราชการ"
+        },
+        {
+            "HolderType": "4",
+            "Meaning": "บุคคลธรรมดาจดVAT"
+        }
+    ],
+    "PersonType": [
+        {
+            "PersonTypeCore": "0",
+            "Meaning": "บุคคลธรรมดาไม่จดVAT",
+            "PersonTypeBCIB": "P"
+        },
+        {
+            "PersonTypeCore": "1",
+            "Meaning": "นิติบุคคลในประเทศ",
+            "PersonTypeBCIB": "O"
+        },
+        {
+            "PersonTypeCore": "3",
+            "Meaning": "หน่วยงานราชการ"
+        },
+        {
+            "PersonTypeCore": "4",
+            "Meaning": "บุคคลธรรมดาจดVAT"
+        }
+    ],
+    "Prefix": [
+        {
+            "PrefixCode": "001",
+            "PrefixName": "คุณ"
+        },
+        {
+            "PrefixCode": "002",
+            "PrefixName": "นาย"
+        },
+        {
+            "PrefixCode": "003",
+            "PrefixName": "นาง"
+        },
+        {
+            "PrefixCode": "004",
+            "PrefixName": "นางสาว"
+        },
+        {
+            "PrefixCode": "005",
+            "PrefixName": "บจ."
+        },
+        {
+            "PrefixCode": "006",
+            "PrefixName": "หจก."
+        },
+        {
+            "PrefixCode": "007",
+            "PrefixName": "MR."
+        },
+        {
+            "PrefixCode": "008",
+            "PrefixName": "MRS."
+        },
+        {
+            "PrefixCode": "009",
+            "PrefixName": "MISS"
+        }
+    ],
+    "InsuredStatusCode": [
+        {
+            "InsuredStatusCode": "1",
+            "Meaning": "โสด",
+            "MartialStatusCode": "S"
+        },
+        {
+            "InsuredStatusCode": "2",
+            "Meaning": "สมรส",
+            "MartialStatusCode": "M"
+        },
+        {
+            "InsuredStatusCode": "3",
+            "Meaning": "หม้าย"
+        },
+        {
+            "InsuredStatusCode": "4",
+            "Meaning": "หย่า",
+            "MartialStatusCode": "D"
+        },
+        {
+            "InsuredStatusCode": "5",
+            "Meaning": "แยกกันอยู"
+        },
+        {
+            "InsuredStatusCode": "1",
+            "Meaning": "ไม่ระบุ",
+            "MartialStatusCode": "U"
+        }
+    ]
+}

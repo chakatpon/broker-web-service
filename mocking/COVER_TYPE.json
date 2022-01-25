@@ -1,0 +1,7 @@
+[
+{"SSWCode":"VMI1","DESCT":"Type 1","VIRCode":"1"},
+{"SSWCode":"VMI2","DESCT":"Type 2","VIRCode":"2"},
+{"SSWCode":"VMI2+","DESCT":"Non Type 1","VIRCode":"5"},
+{"SSWCode":"VMI3","DESCT":"Type 3","VIRCode":"3"},
+{"SSWCode":"VMI3+","DESCT":"Non Type 1","VIRCode":"5"}
+]

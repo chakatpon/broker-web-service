@@ -1,0 +1,77 @@
+version: "3"
+services:
+  redis-server:
+    image: "redis"
+
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    expose:
+      - 6379
+    restart: always
+
+  bigc-server:
+    image: "redis"
+
+    ports:
+      - "6380:6379"
+    volumes:
+      - ~/db/bigc-data:/data
+    expose:
+      - 6380
+    restart: always
+
+  ssw-server:
+    image: "redis"
+
+    ports:
+      - "6381:6379"
+    volumes:
+      - ~/db/ssw-data:/data
+    expose:
+      - 6381
+    restart: always
+
+  redis-commander:
+    container_name: redis-commander
+    hostname: redis-commander
+    image: rediscommander/redis-commander:latest
+    restart: always
+    environment:
+      - REDIS_HOSTS=redis-server
+      - HTTP_USER=myadmin
+      - HTTP_PASSWORD=onlyone
+    ports:
+      - "8081:8081"
+
+  bigc-datastore:
+    container_name: bigc-datastore
+    hostname: bigc-datastore
+    image: rediscommander/redis-commander:latest
+    links:
+      - "bigc-server:bigc-server"
+    restart: always
+    environment:
+      - REDIS_HOSTS=bigc-server
+      - HTTP_USER=bigcadmin
+      - HTTP_PASSWORD=whatever
+    ports:
+      - "9090:8081"
+
+  ssw-datastore:
+    container_name: ssw-datastore
+    hostname: ssw-datastore
+    image: rediscommander/redis-commander:latest
+    links:
+      - "ssw-server:ssw-server"
+    restart: always
+    environment:
+      - REDIS_HOSTS=ssw-server
+      - HTTP_USER=sswadmin
+      - HTTP_PASSWORD=whatever
+    ports:
+      - "9091:8081"
+
+volumes:
+  redis-data:

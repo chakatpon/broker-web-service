@@ -1,0 +1,1068 @@
+{
+    "Occupation": [
+        {
+            "OccupationCode": "1001",
+            "DescTH": "กรรมการผู้อำนวยการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1002",
+            "DescTH": "กรรมการรองผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1003",
+            "DescTH": "ประธานกก.",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1004",
+            "DescTH": "กรรมการผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1005",
+            "DescTH": "รองกรรมการผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1006",
+            "DescTH": "ผช.กรรมการผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1007",
+            "DescTH": "ผู้อำนวยการฝ่าย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1008",
+            "DescTH": "รองผู้อำนวยการฝ่าย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1009",
+            "DescTH": "ผช.ผอ.ฝ่าย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1010",
+            "DescTH": "ผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1011",
+            "DescTH": "รองผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1012",
+            "DescTH": "ผู้ช่วยผู้จัดการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1013",
+            "DescTH": "พนักงานทั่วไป",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1014",
+            "DescTH": "พนักงานขาย/การตลาด",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1015",
+            "DescTH": "พนักงานบัญชี",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1016",
+            "DescTH": "พนักงานพิมพ์ดีด",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1017",
+            "DescTH": "เลขานุการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1018",
+            "DescTH": "นักธุรกิจ",
+            "CoreCode1": "005"
+        },
+        {
+            "OccupationCode": "1019",
+            "DescTH": "พนักงาน",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1020",
+            "DescTH": "ที่ปรึกษา",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "1021",
+            "DescTH": "หัวหน้าฝ่าย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1022",
+            "DescTH": "ผช.หัวหน้าฝ่าย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1023",
+            "DescTH": "หัวหน้าหน่วย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1024",
+            "DescTH": "กรรมการ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1025",
+            "DescTH": "ผู้จัดการแผนก",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1026",
+            "DescTH": "ผู้จัดการฝ่าย",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1027",
+            "DescTH": "ผู้พิพากษา",
+            "CoreCode1": "015"
+        },
+        {
+            "OccupationCode": "1028",
+            "DescTH": "ทนายความ",
+            "CoreCode1": "015"
+        },
+        {
+            "OccupationCode": "1029",
+            "DescTH": "อัยการ",
+            "CoreCode1": "015"
+        },
+        {
+            "OccupationCode": "1030",
+            "DescTH": "ที่ปรึกษากฎหมาย",
+            "CoreCode1": "015"
+        },
+        {
+            "OccupationCode": "1031",
+            "DescTH": "พนักงานฝึกหัดทนายความ",
+            "CoreCode1": "015"
+        },
+        {
+            "OccupationCode": "1032",
+            "DescTH": "บรรณาธิการ",
+            "CoreCode1": "028"
+        },
+        {
+            "OccupationCode": "1033",
+            "DescTH": "นักประพันธ์",
+            "CoreCode1": "019"
+        },
+        {
+            "OccupationCode": "1034",
+            "DescTH": "นักวิจารณ์",
+            "CoreCode1": "019"
+        },
+        {
+            "OccupationCode": "1035",
+            "DescTH": "ผู้ประกาศข่าววิทยุ/โทรทัศน์",
+            "CoreCode1": "017"
+        },
+        {
+            "OccupationCode": "1036",
+            "DescTH": "นักดนตรี",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "1037",
+            "DescTH": "นักร้อง",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "1038",
+            "DescTH": "นักแต่งเพลง",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "1039",
+            "DescTH": "นักดาราศาสตร์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1040",
+            "DescTH": "นักบัญชี",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1041",
+            "DescTH": "นักสังคมสงเคราะห์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1042",
+            "DescTH": "บรรณารักษ์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1043",
+            "DescTH": "เศรษฐกร",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1044",
+            "DescTH": "นักจิตวิทยา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1045",
+            "DescTH": "นักสถิติ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1046",
+            "DescTH": "นักมานุษยวิทยา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1047",
+            "DescTH": "อธิบดี",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1048",
+            "DescTH": "รองอธิบดี",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1049",
+            "DescTH": "ผู้ช่วยอธิบดี",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1050",
+            "DescTH": "ผู้อำนวยการกอง",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1051",
+            "DescTH": "ข้าราชการฝ่ายบริหาร",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1052",
+            "DescTH": "หัวหน้ากอง",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1053",
+            "DescTH": "รับราชการ/รัฐวิสาหกิจ",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1054",
+            "DescTH": "หัวหน้าคณะผู้บริหาร",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1055",
+            "DescTH": "หัวหน้าแผนก",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "1056",
+            "DescTH": "ครู-อาจารย์",
+            "CoreCode1": "009"
+        },
+        {
+            "OccupationCode": "1057",
+            "DescTH": "ผู้ช่วยหัวหน้าแผนก",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1058",
+            "DescTH": "ผู้จัดการสหกรณ์การเกษตร",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1059",
+            "DescTH": "พนักงานสหกรณ์การเกษตร",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1060",
+            "DescTH": "พนักงานโทรศัพท์/โทรเลข",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1061",
+            "DescTH": "เจ้าของกิจการ",
+            "CoreCode1": "005"
+        },
+        {
+            "OccupationCode": "1062",
+            "DescTH": "ตัวแทนขายประกัน",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "1063",
+            "DescTH": "แม่บ้าน",
+            "CoreCode1": "024"
+        },
+        {
+            "OccupationCode": "1064",
+            "DescTH": "นักเรียน/นักศึกษา",
+            "CoreCode1": "007"
+        },
+        {
+            "OccupationCode": "2001",
+            "DescTH": "วิศวกร",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "2002",
+            "DescTH": "สถาปนิก",
+            "CoreCode1": "014"
+        },
+        {
+            "OccupationCode": "2003",
+            "DescTH": "มัณฑนากร",
+            "CoreCode1": "014"
+        },
+        {
+            "OccupationCode": "2004",
+            "DescTH": "นักออกแบบ",
+            "CoreCode1": "014"
+        },
+        {
+            "OccupationCode": "2005",
+            "DescTH": "นักเขียนแบบ",
+            "CoreCode1": "014"
+        },
+        {
+            "OccupationCode": "2006",
+            "DescTH": "ผู้สื่อข่าว",
+            "CoreCode1": "017"
+        },
+        {
+            "OccupationCode": "2007",
+            "DescTH": "นักแสดง/ดารา",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2008",
+            "DescTH": "นักลีลาศ",
+            "CoreCode1": "035"
+        },
+        {
+            "OccupationCode": "2009",
+            "DescTH": "นักอุตุนิยมวิทยา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "2010",
+            "DescTH": "นักวิทยาศาสตร์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "2011",
+            "DescTH": "นักชีววิทยา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "2012",
+            "DescTH": "นักเกษตรศาสตร์/วนศาสตร์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "2013",
+            "DescTH": "นักการศึกษา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "2014",
+            "DescTH": "ทำสวนผัก/ผลไม้ เจ้าของสวน",
+            "CoreCode1": "025"
+        },
+        {
+            "OccupationCode": "2015",
+            "DescTH": "ทำไร่ /เจ้าของ",
+            "CoreCode1": "025"
+        },
+        {
+            "OccupationCode": "2016",
+            "DescTH": "ทำฟาร์ม /เจ้าของ",
+            "CoreCode1": "025"
+        },
+        {
+            "OccupationCode": "2017",
+            "DescTH": "บุรุษไปรษณีย์",
+            "CoreCode1": "003"
+        },
+        {
+            "OccupationCode": "2018",
+            "DescTH": "นักการส่งข่าว",
+            "CoreCode1": "017"
+        },
+        {
+            "OccupationCode": "2019",
+            "DescTH": "ช่างตัดเย็บเสื้อผ้า",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2020",
+            "DescTH": "ช่างตัดผม",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2021",
+            "DescTH": "คนรับใช้",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2022",
+            "DescTH": "ช่างซัก/รีด",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2023",
+            "DescTH": "บ๋อย/บริกร",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2024",
+            "DescTH": "รับจ้าง",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "2025",
+            "DescTH": "ค้าขาย",
+            "CoreCode1": "006"
+        },
+        {
+            "OccupationCode": "2026",
+            "DescTH": "ธุรกิจส่วนตัว",
+            "CoreCode1": "005"
+        },
+        {
+            "OccupationCode": "2027",
+            "DescTH": "เร่ขายของด้วยรถ",
+            "CoreCode1": "006"
+        },
+        {
+            "OccupationCode": "2028",
+            "DescTH": "นักการเมือง",
+            "CoreCode1": "002"
+        },
+        {
+            "OccupationCode": "3001",
+            "DescTH": "พนักงานเก็บเงิน/ส่งสินค้า",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "3002",
+            "DescTH": "พนักงานส่งเอกสาร",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "3003",
+            "DescTH": "วิศวกรโยธา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3004",
+            "DescTH": "วิศวกรไฟฟ้า",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3005",
+            "DescTH": "วิศวกรช่างกล",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3006",
+            "DescTH": "วิศวกรอุตสาหกรรม",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3007",
+            "DescTH": "วิศวกรเคมี",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3008",
+            "DescTH": "พนักงานขับรถขนส่งทางบก",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3009",
+            "DescTH": "พนักงานขับรถไฟ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3010",
+            "DescTH": "พนักงานขับรถ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "3011",
+            "DescTH": "ช่างทำเครื่องปั้นดินเผา",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "3012",
+            "DescTH": "ช่างทำขนมอบ",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "3013",
+            "DescTH": "ช่างทำนาฬิกา",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "3014",
+            "DescTH": "ช่างซ่อมนาฬิกา",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4001",
+            "DescTH": "แพทย์",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4002",
+            "DescTH": "ทันตแพทย์",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4003",
+            "DescTH": "จักษุแพทย์",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4004",
+            "DescTH": "ศัลยแพทย์",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4005",
+            "DescTH": "เภสัชกร",
+            "CoreCode1": "013"
+        },
+        {
+            "OccupationCode": "4006",
+            "DescTH": "พยาบาล",
+            "CoreCode1": "032"
+        },
+        {
+            "OccupationCode": "4007",
+            "DescTH": "ผู้ช่วยพยาบาล",
+            "CoreCode1": "032"
+        },
+        {
+            "OccupationCode": "4008",
+            "DescTH": "พนักงานกายภาพบ าบัด",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4009",
+            "DescTH": "พนักงานX-RAY",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4010",
+            "DescTH": "พนักงานในโรงพยาบาล",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4011",
+            "DescTH": "วิศวกรเหมืองแร่",
+            "CoreCode1": "036"
+        },
+        {
+            "OccupationCode": "4012",
+            "DescTH": "นักส ารวจ",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "4013",
+            "DescTH": "นักเคมี",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "4014",
+            "DescTH": "นักฟิสิกส์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "4015",
+            "DescTH": "นักธรณีวิทยา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "4016",
+            "DescTH": "สัตว์แพทย์",
+            "CoreCode1": "012"
+        },
+        {
+            "OccupationCode": "4017",
+            "DescTH": "เกษตรกร",
+            "CoreCode1": "025"
+        },
+        {
+            "OccupationCode": "4018",
+            "DescTH": "ทำประมง",
+            "CoreCode1": "030"
+        },
+        {
+            "OccupationCode": "4019",
+            "DescTH": "ปศุสัตว์",
+            "CoreCode1": "025"
+        },
+        {
+            "OccupationCode": "4020",
+            "DescTH": "ต้นหนเรือ",
+            "CoreCode1": "034"
+        },
+        {
+            "OccupationCode": "4021",
+            "DescTH": "พนักงานลูกเรือ",
+            "CoreCode1": "034"
+        },
+        {
+            "OccupationCode": "4022",
+            "DescTH": "ช่างแกะสลัก",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4023",
+            "DescTH": "ช่างติดตั้งกระจก",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4024",
+            "DescTH": "ช่างเช็ดกระจก",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4025",
+            "DescTH": "ช่างทำกระดาษ/ผลิตภัณฑ์กระดาษ",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4026",
+            "DescTH": "ช่างประจ าเครื่องปั่นจั่น",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4027",
+            "DescTH": "ช่างไฟฟ้า",
+            "CoreCode1": "038"
+        },
+        {
+            "OccupationCode": "4028",
+            "DescTH": "ช่างซ่อมเครื่องใช้ไฟฟ้า",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4029",
+            "DescTH": "ช่างซ่อมเครื่องจักรกล",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4030",
+            "DescTH": "ช่างทำเครื่องดนตรี",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4031",
+            "DescTH": "ช่างทาสี",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4032",
+            "DescTH": "ช่างปูน",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4033",
+            "DescTH": "ช่างไม้",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4034",
+            "DescTH": "ช่างทอผ้า/ปั่นด้าย",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4035",
+            "DescTH": "ช่างทำผลิตภัณฑ์พลาสติก",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4036",
+            "DescTH": "ช่างเดินสายเคเบิล",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4037",
+            "DescTH": "ช่างทำเครื่องเรือนด้วยไม้",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4038",
+            "DescTH": "ช่างเลื่อยไม้",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4039",
+            "DescTH": "ช่างทำชิ้นส่วนอิเลคทรอนิกส์",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4040",
+            "DescTH": "ช่างทำแม่พิพม์",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4041",
+            "DescTH": "ช่างปักผ้า",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4042",
+            "DescTH": "ช่าง",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4043",
+            "DescTH": "ช่างเทคนิค",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4044",
+            "DescTH": "ช่างพิมพ์",
+            "CoreCode1": "020"
+        },
+        {
+            "OccupationCode": "4045",
+            "DescTH": "ผู้ทำงานเหมืองแร่",
+            "CoreCode1": "037"
+        },
+        {
+            "OccupationCode": "4046",
+            "DescTH": "ผู้ต่อยย่อยหิน",
+            "CoreCode1": "037"
+        },
+        {
+            "OccupationCode": "4047",
+            "DescTH": "ผู้ทำงานเกี่ยวกับเหมืองแร่",
+            "CoreCode1": "037"
+        },
+        {
+            "OccupationCode": "4048",
+            "DescTH": "กรรมกรเหมืองแร่",
+            "CoreCode1": "037"
+        },
+        {
+            "OccupationCode": "4049",
+            "DescTH": "กรรมกร",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "4050",
+            "DescTH": "นักกีฬาอาชีพ",
+            "CoreCode1": "035"
+        },
+        {
+            "OccupationCode": "4051",
+            "DescTH": "ยามรักษาการณ์",
+            "CoreCode1": "039"
+        },
+        {
+            "OccupationCode": "4052",
+            "DescTH": "นักสืบ",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "4053",
+            "DescTH": "ต ารวจ/ทหาร",
+            "CoreCode1": "010"
+        },
+        {
+            "OccupationCode": "4054",
+            "DescTH": "พนักงานดับเพลิง",
+            "CoreCode1": "040"
+        },
+        {
+            "OccupationCode": "4055",
+            "DescTH": "ไม่ทราบอาชีพ",
+            "CoreCode1": "000"
+        },
+        {
+            "OccupationCode": "5001",
+            "DescTH": "นักรัฐศาสตร์",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "5002",
+            "DescTH": "นักปรัชญา",
+            "CoreCode1": "001"
+        },
+        {
+            "OccupationCode": "5003",
+            "DescTH": "นักบิน",
+            "CoreCode1": "034"
+        },
+        {
+            "OccupationCode": "5004",
+            "DescTH": "ลูกเรือ",
+            "CoreCode1": "034"
+        },
+        {
+            "OccupationCode": "5005",
+            "DescTH": "ผู้ควบคุมการจราจรทางอากาศ",
+            "CoreCode1": "034"
+        },
+        {
+            "OccupationCode": "5006",
+            "DescTH": "โปรแกรมเมอร์",
+            "CoreCode1": "021"
+        },
+        {
+            "OccupationCode": "5007",
+            "DescTH": "นักวิเคราะห์ระบบ",
+            "CoreCode1": "021"
+        },
+        {
+            "OccupationCode": "5008",
+            "DescTH": "วิศวกรคอมพิวเตอร์",
+            "CoreCode1": "021"
+        },
+        {
+            "OccupationCode": "5009",
+            "DescTH": "ผู้ให้ค าปรึกษาและผู้จัดการท่อ",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "5010",
+            "DescTH": "มัคคุเทศน์",
+            "CoreCode1": "016"
+        },
+        {
+            "OccupationCode": "5011",
+            "DescTH": "พ่อครัว/แม่ครัว",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "5012",
+            "DescTH": "เชฟ",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "5013",
+            "DescTH": "ผู้เชี่ยวชาญด้านอาหาร",
+            "CoreCode1": "004"
+        },
+        {
+            "OccupationCode": "5014",
+            "DescTH": "พระสงฆ์",
+            "CoreCode1": "022"
+        },
+        {
+            "OccupationCode": "5015",
+            "DescTH": "นักบวช",
+            "CoreCode1": "022"
+        },
+        {
+            "OccupationCode": "5016",
+            "DescTH": "อาชีพเกี่ยวกับศาสนา",
+            "CoreCode1": "022"
+        },
+        {
+            "OccupationCode": "9999",
+            "DescTH": "อื่นๆ",
+            "CoreCode1": "000"
+        }
+    ],
+    "CoreOccupation": [
+        {
+            "Occupation Code": "000",
+            "Occupation Name": "-"
+        },
+        {
+            "Occupation Code": "001",
+            "Occupation Name": "พนักงานบริษัท"
+        },
+        {
+            "Occupation Code": "002",
+            "Occupation Name": "ข้าราชการ"
+        },
+        {
+            "Occupation Code": "003",
+            "Occupation Name": "รัฐวิสาหกิจ"
+        },
+        {
+            "Occupation Code": "004",
+            "Occupation Name": "รับจ้าง"
+        },
+        {
+            "Occupation Code": "005",
+            "Occupation Name": "กิจการส่วนตัว"
+        },
+        {
+            "Occupation Code": "006",
+            "Occupation Name": "ค้าขาย"
+        },
+        {
+            "Occupation Code": "007",
+            "Occupation Name": "นักเรียน"
+        },
+        {
+            "Occupation Code": "008",
+            "Occupation Name": "นักศึกษา"
+        },
+        {
+            "Occupation Code": "009",
+            "Occupation Name": "ครู/อาจารย์"
+        },
+        {
+            "Occupation Code": "010",
+            "Occupation Name": "ตำรวจ"
+        },
+        {
+            "Occupation Code": "011",
+            "Occupation Name": "ทหาร"
+        },
+        {
+            "Occupation Code": "012",
+            "Occupation Name": "แพทย์"
+        },
+        {
+            "Occupation Code": "013",
+            "Occupation Name": "เภสัชกร"
+        },
+        {
+            "Occupation Code": "014",
+            "Occupation Name": "สถาปนิก"
+        },
+        {
+            "Occupation Code": "015",
+            "Occupation Name": "ทนายความ"
+        },
+        {
+            "Occupation Code": "016",
+            "Occupation Name": "มัคคุเทศก์"
+        },
+        {
+            "Occupation Code": "017",
+            "Occupation Name": "ผู้สื่อข่าว"
+        },
+        {
+            "Occupation Code": "018",
+            "Occupation Name": "นักจัดรายการวิทยุ/โทรทัศน์"
+        },
+        {
+            "Occupation Code": "019",
+            "Occupation Name": "นักประชาสัมพันธ์/หนังสือ"
+        },
+        {
+            "Occupation Code": "020",
+            "Occupation Name": "ช่าง"
+        },
+        {
+            "Occupation Code": "021",
+            "Occupation Name": "คอมพิวเตอร์"
+        },
+        {
+            "Occupation Code": "022",
+            "Occupation Name": "พระ"
+        },
+        {
+            "Occupation Code": "023",
+            "Occupation Name": "แม่ชี"
+        },
+        {
+            "Occupation Code": "024",
+            "Occupation Name": "แม่บ้าน"
+        },
+        {
+            "Occupation Code": "025",
+            "Occupation Name": "เกษตรกร"
+        },
+        {
+            "Occupation Code": "026",
+            "Occupation Name": "หัวหน้าแผนกซ่อมบำรุง"
+        },
+        {
+            "Occupation Code": "027",
+            "Occupation Name": "พ่อบ้าน"
+        },
+        {
+            "Occupation Code": "028",
+            "Occupation Name": "บรรณาธิการ"
+        },
+        {
+            "Occupation Code": "029",
+            "Occupation Name": "ค้าวัสดุก่อสร้าง"
+        },
+        {
+            "Occupation Code": "030",
+            "Occupation Name": "นักเดินเรือ"
+        },
+        {
+            "Occupation Code": "031",
+            "Occupation Name": "เจ้าหน้าที่ดูแลนักกีฬา"
+        },
+        {
+            "Occupation Code": "032",
+            "Occupation Name": "พยาบาล"
+        },
+        {
+            "Occupation Code": "033",
+            "Occupation Name": "ก่อนวัยเรียน"
+        },
+        {
+            "Occupation Code": "034",
+            "Occupation Name": "พนักงานลูกเรือ"
+        },
+        {
+            "Occupation Code": "035",
+            "Occupation Name": "นักกีฬาอาชีพ"
+        },
+        {
+            "Occupation Code": "036",
+            "Occupation Name": "วิศวกรเหมืองแร่"
+        },
+        {
+            "Occupation Code": "037",
+            "Occupation Name": "กรรมกรเหมืองแร่"
+        },
+        {
+            "Occupation Code": "038",
+            "Occupation Name": "ช่างไฟฟ้า"
+        },
+        {
+            "Occupation Code": "039",
+            "Occupation Name": "ยามรักษาการณ์"
+        },
+        {
+            "Occupation Code": "040",
+            "Occupation Name": "พนักงานดับเพลิง"
+        },
+        {
+            "Occupation Code": "041",
+            "Occupation Name": "ช่างทำดอกไม้ไฟ"
+        },
+        {
+            "Occupation Code": "042",
+            "Occupation Name": "นักแสดงผาดโผน"
+        }
+    ]
+}

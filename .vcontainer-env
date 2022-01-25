@@ -1,0 +1,8 @@
+NODE_ENV=development
+PORT=4001
+REDIS_PORT=6379
+REDIS_HOST=redis-server
+BIGC_PORT=6379
+BIGC_HOST=bigc-server
+SSW_PORT=6379
+SSW_HOST=ssw-server

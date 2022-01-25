@@ -1,0 +1,14 @@
+{
+    "NODE_ENV"                  :"development",
+    "PORT"                      :4001,
+    "REDIS_PORT"                :6379,
+    "REDIS_HOST"                :"redis-server",
+    "BIGC_PORT"                 :6379,
+    "BIGC_HOST"                 :"bigc-server",
+    "SSW_PORT"                  :6379,
+    "SSW_HOST"                  :"ssw-server",
+    "CMI_PREVALIDATE_URL"       :"https://virhqapi.viriyah.co.th/MotorPreValidatePolicyCompulsory/api/1.0/PreValidatePolicy",
+    "CMI_ISSUANCE_URL"          :"https://virhqapi.viriyah.co.th/MotorIssuancePolicyCompulsory/api/1.0/IssuancePolicy",
+    "VMI_PREVALIDATE_URL"       :"https://virhqapi.viriyah.co.th/MotorPreValidatePolicyVoluntary/api/1.0/PreValidatePolicy",
+    "VMI_ISSUANCE_URL"          :"https://virhqapi.viriyah.co.th/MotorIssuancePolicyVoluntary/api/1.0/IssuancePolicy"
+}

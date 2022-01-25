@@ -1,0 +1,84 @@
+#version: "3"
+#services:
+redis-server:
+  image: "redis"
+  hostname: redis-server
+  volumes:
+    - ~/db/data:/data
+
+bigc-server:
+  image: "redis"
+  hostname: bigc-server
+  volumes:
+    - ~/db/bigc-data-uat:/data
+ssw-server:
+  image: "redis"
+  hostname: ssw-server
+  volumes:
+    - ~/db/ssw-data:/data
+
+borker-web-service:
+  image: "gitlab2-registry.viriyah.co.th/chakatponk/broker-web-service:v172"
+  ports:
+    - "4001:4001"
+  restart: always
+  links:
+    - "redis-server:redis-server"
+    - "bigc-server:bigc-server"
+    - "ssw-server:ssw-server"
+  volumes:
+    - /home/volumes_share/:/app/fileshare
+
+borker-web-service2:
+  image: "gitlab2-registry.viriyah.co.th/chakatponk/broker-web-service:v172"
+  ports:
+    - "4002:4001"
+  restart: always
+  links:
+    - "redis-server:redis-server"
+    - "bigc-server:bigc-server"
+    - "ssw-server:ssw-server"
+  volumes:
+    - /home/volumes_share/:/app/fileshare
+
+redis-commander:
+  container_name: redis-commander
+  hostname: redis-commander
+  image: rediscommander/redis-commander:latest
+  links:
+    - "redis-server:redis-server"
+  restart: always
+  environment:
+    - REDIS_HOSTS=redis-server
+    - HTTP_USER=myadmin
+    - HTTP_PASSWORD=onlyone
+  ports:
+    - "8081:8081"
+
+bigc-datastore:
+  container_name: bigc-datastore
+  hostname: bigc-datastore
+  image: rediscommander/redis-commander:latest
+  links:
+    - "bigc-server:bigc-server"
+  restart: always
+  environment:
+    - REDIS_HOSTS=bigc-server
+    - HTTP_USER=bigcadmin
+    - HTTP_PASSWORD=whatever
+  ports:
+    - "9090:8081"
+
+ssw-datastore:
+  container_name: ssw-datastore
+  hostname: ssw-datastore
+  image: rediscommander/redis-commander:latest
+  links:
+    - "ssw-server:ssw-server"
+  restart: always
+  environment:
+    - REDIS_HOSTS=ssw-server
+    - HTTP_USER=sswadmin
+    - HTTP_PASSWORD=whatever
+  ports:
+    - "9091:8081"

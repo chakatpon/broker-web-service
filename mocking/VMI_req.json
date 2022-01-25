@@ -1,0 +1,277 @@
+{                           
+    "applicationcode": "APP20200520",                           
+    "policyStartDate": "2020-05-20",                            
+    "policyExpiryDate": "2021-05-20",                           
+    "proposalDate": null,                           
+    "channel": "WS",                            
+    "productCode": "VMI",                           
+    "contractProcessState": "ISSUE",                            
+    "verifyby": "BRANCH",                           
+    "branchCode": "01",                         
+    "branchName": "Saraburi",                           
+    "isDigitalPolicy": false,                           
+            "policyDocument": "Original",
+    "vehicle": {                            
+        "make": "39",                           
+        "model": "1597",                            
+        "usage": "110",                         
+        "garageType": "COMPANY",                            
+        "vehicleIdentificationNumber": "WD33D20504256018",                          
+        "registrationNumber": "4กพ5674",                            
+        "registrationState": "0",                           
+        "yearOfManufacture": "2020",
+        "yearOfRegistration": "2020",                            
+        "engineNumber": "",                         
+        "numberOfSeats": 7 ,
+        "engineSize": 2000,
+        "load": 300                   
+    },                          
+    "documents": {                          
+        "idCard": "",                           
+        "blueBook": "",                         
+        "examination": "",                          
+        "application": "",                          
+        "pdpa": ""                          
+    },                          
+    "images": {                         
+        "imageFront": "",                           
+        "imageRear": "",                            
+        "imageLeft": "",                            
+        "imageRight": "",                           
+        "imageRightFront": "",                          
+        "imageRightRear": "",                           
+        "imageLeftFront": "",                           
+        "imageLeftRear": "",                            
+        "imageRoof": "",                            
+        "imageWound1": "",                          
+        "imageWound2": "",                          
+        "imageWound3": "",                          
+        "imageWound4": "",                              
+        "imageWound5": "",                          
+        "imageWound6": "",                          
+        "imageAccessories1": "",                            
+        "imageAccessories2": "",                            
+        "imageAccessories3": "",                            
+        "imageAccessories4": "",                            
+        "imageAccessories5": "",                            
+        "imageAccessories6": ""                         
+    },                          
+    "addCmi": true,                         
+    "productPackages": [                            
+        {                           
+            "package_id" : "0V000516",                      
+            "coverages": [                          
+                {                           
+                    "cover_type": "VMI1",                           
+                    "sumInsured": 700000,                           
+                    "coverageItems": [                          
+                        {                           
+                            "name": "Sum Insured",                          
+                            "code": "OD",                           
+                            "sumInsured": 700000                            
+                        },                          
+                        {                           
+                            "name": "Deduct Amount",                            
+                            "code": "DD",                           
+                            "sumInsured": 0                         
+                        },                          
+                        {                           
+                            "name": "TPBI/Persons",                         
+                            "code": "TPBI_PERSON",                          
+                            "sumInsured": 500000                            
+                        },                          
+                        {                           
+                            "name": "TPBI Claims/Accident",                         
+                            "code": "TPBI_ACCIDENT",                            
+                            "sumInsured": 10000000                          
+                        },                          
+                        {                           
+                            "name": "TPPD Claims",                          
+                            "code": "TPPD",                         
+                            "sumInsured": 2500000                           
+                        },                          
+                        {                           
+                            "name": "RY01(PA)/Person",                          
+                            "code": "PA",                           
+                            "sumInsured": 100000                            
+                        },                          
+                        {                           
+                            "name": "RY02(ME)/Person",                          
+                            "code": "ME",                           
+                            "sumInsured": 100000                            
+                        },                          
+                        {                           
+                            "name": "RY03(BailBond)",                           
+                            "code": "BB",                           
+                            "sumInsured": 200000                            
+                        },                          
+                        {                           
+                            "name": "Roadside Assistance",                          
+                            "code": "RA85",                         
+                            "sumInsured": null                          
+                        }                           
+                    ]                           
+                }                           
+            ],                          
+            "premium": {                            
+                "discounts": [                          
+                    {                           
+                        "code": "PAP10",
+                        "name": "Promotional discount",     
+                        "rate": 10,                 
+                        "type": "eCoupon",                          
+                        "amount": 1555.4,
+                        "recurring": false                          
+                    }       
+                ],                      
+                "additionalCosts": [                            
+                    {                           
+                        "name": null,                           
+                        "type": "VAT",                          
+                        "amount": 1555.4                            
+                    },                          
+                    {                           
+                        "name": null,                           
+                        "type": "STAMP",                            
+                        "amount": 89                            
+                    }                           
+                ],                          
+                "netPremium": 22131,                            
+                "grossPremium": 23775.4                         
+            }                           
+        }                           
+    ],                          
+    "beneficiary": "Siam Commerical Bank",                          
+    "insuredPerson": {                          
+        "type": "PERSON",                   
+        "title": "ร.ต.อ.",                  
+        "firstName": "พอเพียง",                 
+        "lastName": "ไชโย",                 
+        "gender": "MALE",                   
+        "identificationDocuments": [                    
+            {               
+                "identityType": "NRIC",         
+                "identityNumber": "1833445523445"           
+            }               
+        ],                  
+        "nationality": "TH",                    
+        "birthDate": "1988-12-25",                  
+        "occupation": "99",                 
+        "registerId": null,                 
+        "companyPrefix": null,                  
+        "companyName": null,                    
+        "companySuffix": null,                  
+        "emailAddress": "string@string.com",                    
+        "mobilePhone": "0861234567",                    
+        "addresses": [                  
+            {                   
+              "type": "REGISTER",                   
+              "addressLine1": "No. 9 G Tower Rama 9, 10th Floor",                   
+              "addressLine2": null,                 
+              "addressLine3": null,                 
+              "addressLine4": null,                 
+              "district": "1",                  
+              "subDistrict": "3210",                    
+              "state": "24",                    
+              "postalCode": "96000"                 
+            },                  
+            {                   
+              "type": "CURRENT",                    
+              "addressLine1": "No. 9 G Tower Rama 9, 10th Floor",                   
+              "addressLine2": null,                 
+              "addressLine3": null,                 
+              "addressLine4": null,                 
+              "district": "1",                  
+              "subDistrict": "3210",                    
+              "state": "24",                    
+              "postalCode": "96000"                 
+            }                   
+        ]                       
+    },  
+    "driver": [                 
+        {               
+            "person": "1",          
+            "title": "ร.ต.อ.",                  
+            "firstName": "พอเพียง",                 
+            "lastName": "ไชโย",                 
+            "gender": "MALE",                   
+            "licenseNo": "",                    
+            "nationality": "TH",                    
+            "birthDate": "1988-12-25"       
+        },
+        {               
+            "person": "2",          
+            "title": "ร.ต.อ.",                  
+            "firstName": "พอเพียง",                 
+            "lastName": "ไชโย",                 
+            "gender": "MALE",                   
+            "licenseNo": "",                    
+            "nationality": "TH",                    
+            "birthDate": "1988-12-25"       
+        }                   
+    ],                  
+    "payer": {                      
+        "type": "PERSON",                   
+        "title": "ร.ต.อ.",                  
+        "firstName": "พอเพียง",                 
+        "lastName": "ไชโย",                 
+        "gender": "MALE",                   
+        "identificationDocuments": [                    
+            {               
+                "identityType": "NRIC",         
+                "identityNumber": "1833445523445"           
+            }               
+        ],                  
+        "nationality": "TH",                    
+        "birthDate": "1988-12-25",                  
+        "occupation": "99",                 
+        "registerId": null,                 
+        "companyPrefix": null,                  
+        "companyName": null,                    
+        "companySuffix": null,                  
+        "customerName": null,                   
+        "emailAddress": "string@string.com",                    
+        "mobilePhone": "0861234567",                    
+        "addresses": [                  
+            {                   
+              "type": "REGISTER",                   
+              "addressLine1": "No. 9 G Tower Rama 9, 10th Floor",                   
+              "addressLine2": null,                 
+              "addressLine3": null,                 
+              "addressLine4": null,                 
+              "district": "1",                  
+              "subDistrict": "3210",                    
+              "state": "24",                    
+              "postalCode": "96000"                 
+            },                  
+            {                   
+              "type": "CURRENT",                    
+              "addressLine1": "No. 9 G Tower Rama 9, 10th Floor",                   
+              "addressLine2": null,                 
+              "addressLine3": null,                 
+              "addressLine4": null,                 
+              "district": "1",                  
+              "subDistrict": "3210",                    
+              "state": "24",                    
+              "postalCode": "96000"                 
+            }                   
+        ]                       
+    },                      
+    "consents": [                       
+        {                           
+            "consentType": "SANCTION_COUNTRY",                          
+            "hasAccepted": true,                            
+            "acceptanceDate": "2020-03-05"                          
+        },                          
+        {                           
+            "consentType": "INFORMATION",                           
+            "hasAccepted": true,                            
+            "acceptanceDate": "2020-03-05"                          
+        },                          
+        {                           
+            "consentType": "MARKETING",                         
+            "hasAccepted": true,                            
+            "acceptanceDate": "2020-03-05"                          
+        }                           
+    ]                           
+}                           

@@ -1,0 +1,29 @@
+version: "3"
+services:
+  idcard-server:
+    image: "redis"
+
+    ports:
+      - "6380:6379"
+    volumes:
+      - ~/db/idcard-data:/data
+    expose:
+      - 6380
+    restart: always
+
+  idcard-datastore:
+    container_name: idcard-datastore
+    hostname: idcard-datastore
+    image: rediscommander/redis-commander:latest
+    links:
+      - "idcard-server:idcard-server"
+    restart: always
+    environment:
+      - REDIS_HOSTS=idcard-server
+      - HTTP_USER=idcardadmin
+      - HTTP_PASSWORD=whatever
+    ports:
+      - "9900:8081"
+
+volumes:
+  redis-data:

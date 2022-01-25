@@ -1,0 +1,147 @@
+[
+    {
+      "code": "1027",
+      "descriptionTH": "ผู้พิพากษา",
+      "descriptionEN": "Judge"
+    },
+    {
+      "code": "1028",
+      "descriptionTH": "ทนายความ",
+      "descriptionEN": "Lawyer/Attorney"
+    },
+    {
+      "code": "1029",
+      "descriptionTH": "อัยการ",
+      "descriptionEN": "Prosecutor"
+    },
+    {
+      "code": "1030",
+      "descriptionTH": "ที่ปรึกษากฎหมาย",
+      "descriptionEN": "Legal Consultant"
+    },
+    {
+      "code": "1031",
+      "descriptionTH": "พนักงานฝึกหัดทนายความ",
+      "descriptionEN": "Paralegal"
+    },
+    {
+      "code": "4001",
+      "descriptionTH": "แพทย์",
+      "descriptionEN": "Doctor/Physician"
+    },
+    {
+      "code": "4002",
+      "descriptionTH": "ทันตแพทย์",
+      "descriptionEN": "Dentist"
+    },
+    {
+      "code": "4003",
+      "descriptionTH": "จักษุแพทย์",
+      "descriptionEN": "Oculist"
+    },
+    {
+      "code": "4004",
+      "descriptionTH": "ศัลยแพทย์",
+      "descriptionEN": "Surgeon"
+    },
+    {
+      "code": "4005",
+      "descriptionTH": "เภสัชกร",
+      "descriptionEN": "Pharmacist"
+    },
+    {
+      "code": "4006",
+      "descriptionTH": "พยาบาล",
+      "descriptionEN": "Nurse"
+    },
+    {
+      "code": "4007",
+      "descriptionTH": "ผู้ช่วยพยาบาล",
+      "descriptionEN": "Practical Nurse"
+    },
+    {
+      "code": "4008",
+      "descriptionTH": "พนักงานกายภาพบำบัด",
+      "descriptionEN": "Physical Therapist"
+    },
+    {
+      "code": "4009",
+      "descriptionTH": "พนักงานX-RAY",
+      "descriptionEN": "X-Ray worker"
+    },
+    {
+      "code": "4010",
+      "descriptionTH": "พนักงานในโรงพยาบาล",
+      "descriptionEN": "Hospital worker"
+    },
+    {
+      "code": "4016",
+      "descriptionTH": "สัตว์แพทย์",
+      "descriptionEN": "Veterinarian"
+    },
+    {
+      "code": "4018",
+      "descriptionTH": "ทำประมง",
+      "descriptionEN": "Fisherman"
+    },
+    {
+      "code": "4019",
+      "descriptionTH": "ปศุสัตว์",
+      "descriptionEN": "Cattleman"
+    },
+    {
+      "code": "4020",
+      "descriptionTH": "ต้นหนเรือ",
+      "descriptionEN": "Navigator"
+    },
+    {
+      "code": "4021",
+      "descriptionTH": "พนักงานลูกเรือ",
+      "descriptionEN": "Sailor"
+    },
+    {
+      "code": "4053",
+      "descriptionTH": "ตำรวจ/ทหาร",
+      "descriptionEN": "Police/Soldier"
+    },
+    {
+      "code": "4054",
+      "descriptionTH": "พนักงานดับเพลิง",
+      "descriptionEN": "Firefighter"
+    },
+    {
+      "code": "4055",
+      "descriptionTH": "ไม่ทราบอาชีพ",
+      "descriptionEN": "Unknown Occupation"
+    },
+    {
+      "code": "5001",
+      "descriptionTH": "นักรัฐศาสตร์",
+      "descriptionEN": "Political Scientist"
+    },
+    {
+      "code": "5002",
+      "descriptionTH": "นักปรัชญา",
+      "descriptionEN": "Philosopher"
+    },
+    {
+      "code": "5003",
+      "descriptionTH": "นักบิน",
+      "descriptionEN": "Aviator/Pilot"
+    },
+    {
+      "code": "5004",
+      "descriptionTH": "ลูกเรือ",
+      "descriptionEN": "Crew"
+    },
+    {
+      "code": "5005",
+      "descriptionTH": "ผู้ควบคุมการจราจรทางอากาศ",
+      "descriptionEN": "Air Traffic Controller"
+    },
+    {
+      "code": "9999",
+      "descriptionTH": "อื่นๆ",
+      "descriptionEN": "Others"
+    }
+  ]
